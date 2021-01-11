@@ -8,6 +8,8 @@ If you really want an archived project to live:
 * Attribute the link to the original repository in the README of the fork. It should come before any level two headers. You don't need any other attributions. Feel free to change anything you like, including the license.
 * Add link to the fork in this repo.
 
+You can do it for any archived project created by me. The full list of my projects is at [orsinium.dev](https://orsinium.dev/projects.html).
+
 Updated README example:
 
 ```markdown
