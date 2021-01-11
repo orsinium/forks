@@ -5,7 +5,7 @@ Hi, I'm @orsinium. I created a lot of open source projects. However, now I don't
 If you really want an archived project to live:
 
 * Fork the project.
-* Attribute the link to the original repository in the README of the fork. It should come before any level two headers.
+* Attribute the link to the original repository in the README of the fork. It should come before any level two headers. You don't need any other attributions. Feel free to change anything you like, including the license.
 * Add link to the fork in this repo.
 
 Updated README example:
