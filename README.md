@@ -31,7 +31,5 @@ Thank you!
 
 ## List of forks
 
-```markdown
 * [life4/flakehell](https://github.com/life4/flakehell)
   * [flakehell/flakehell](https://github.com/flakehell/flakehell)
-```
