@@ -33,3 +33,6 @@ Thank you!
 
 * [life4/flakehell](https://github.com/life4/flakehell)
   * [flakehell/flakehell](https://github.com/flakehell/flakehell)
+
+* [life4/homoglyphs](https://github.com/life4/homoglyphs)
+  * [yamatt/homoglyphs](https://github.com/yamatt/homoglyphs)
