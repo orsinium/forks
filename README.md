@@ -32,7 +32,7 @@ Thank you!
 ## List of forks
 
 * [life4/flakehell](https://github.com/life4/flakehell)
-  * [flakehell/flakehell](https://github.com/flakehell/flakehell)
+  * ~~[flakehell/flakehell](https://github.com/flakehell/flakehell)~~ (not maintained)
   * [flakeheaven/flakeheaven](https://github.com/flakeheaven/flakeheaven)
 
 * [life4/homoglyphs](https://github.com/life4/homoglyphs)
